@@ -200,12 +200,7 @@ def fourth_right_1(m):
         bot.register_next_step_handler(msg, fourth_right_2)
 
 
-def fourth_right_2(m):
-    if m.text == 'Повернутись назад на початкову точку хоча це не треба мабуть робить а пустить гылку в основну шоб не ходить часто туди сюди':
 
-        msg = bot.send_message(m.chat.id, "Ви повернулись в початкову точку підземелля")
-        sleep(1)
-        bot.register_next_step_handler(msg, third)
 
     elif m.text == 'Пливти':
         keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
