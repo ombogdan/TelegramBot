@@ -1,0 +1,157 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 482928579,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 455045670,
+          "is_bot": false,
+          "first_name": "Бодька",
+          "username": "ombogdan_bbx"
+        },
+        "chat": {
+          "id": 455045670,
+          "first_name": "Бодька",
+          "username": "ombogdan_bbx",
+          "type": "private"
+        },
+        "date": 1556016326,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 482928580,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 455045670,
+          "is_bot": false,
+          "first_name": "Бодька",
+          "username": "ombogdan_bbx",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 455045670,
+          "first_name": "Бодька",
+          "username": "ombogdan_bbx",
+          "type": "private"
+        },
+        "date": 1556019812,
+        "text": "привет"
+      }
+    },
+    {
+      "update_id": 482928581,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 455045670,
+          "is_bot": false,
+          "first_name": "Бодька",
+          "username": "ombogdan_bbx",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 455045670,
+          "first_name": "Бодька",
+          "username": "ombogdan_bbx",
+          "type": "private"
+        },
+        "date": 1556033576,
+        "text": "йцукен"
+      }
+    },
+    {
+      "update_id": 482928582,
+      "message": {
+        "message_id": 5,
+        "from": {
+          "id": 329749485,
+          "is_bot": false,
+          "first_name": "Aniossa",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 329749485,
+          "first_name": "Aniossa",
+          "type": "private"
+        },
+        "date": 1556033801,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 482928583,
+      "message": {
+        "message_id": 6,
+        "from": {
+          "id": 329749485,
+          "is_bot": false,
+          "first_name": "Aniossa",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 329749485,
+          "first_name": "Aniossa",
+          "type": "private"
+        },
+        "date": 1556033804,
+        "text": "Какашка"
+      }
+    },
+    {
+      "update_id": 482928584,
+      "message": {
+        "message_id": 7,
+        "from": {
+          "id": 329749485,
+          "is_bot": false,
+          "first_name": "Aniossa",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 329749485,
+          "first_name": "Aniossa",
+          "type": "private"
+        },
+        "date": 1556033899,
+        "text": "Бодя гівно"
+      }
+    },
+    {
+      "update_id": 482928585,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 329749485,
+          "is_bot": false,
+          "first_name": "Aniossa",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 329749485,
+          "first_name": "Aniossa",
+          "type": "private"
+        },
+        "date": 1556034072,
+        "text": "Пердун старий"
+      }
+    }
+  ]
+}
